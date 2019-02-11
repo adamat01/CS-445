@@ -1,0 +1,13 @@
+ls.c
+task1-3
+task4_output.txt
+task4_systemCall
+task4_systemCall.c
+task5_pt1_output.txt
+task5_pt2_output.txt
+task5_pt3_output.txt
+task5_Set-UID_ex
+task5_Set-UID_ex.c
+task6_normal_output.txt
+task6_systemCall_PATH
+task6_systemCall_PATH.c
