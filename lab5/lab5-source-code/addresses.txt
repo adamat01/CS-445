@@ -1,0 +1,3 @@
+$1 = (char (*)[30]) 0xb7fbd5b4 <buffer>
+$2 = (char (*)[24]) 0xbfffe998
+$3 = 0x20
