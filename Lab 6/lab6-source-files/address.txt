@@ -1,0 +1,7 @@
+Value: /bin/sh
+Address: 0xbffffdd6
+
+gdb-peda$ p system
+$1 = {<text variable, no debug info>} 0xb7e42da0 <__libc_system>
+gdb-peda$ p exit
+$2 = {<text variable, no debug info>} 0xb7e369d0 <__GI_exit>
